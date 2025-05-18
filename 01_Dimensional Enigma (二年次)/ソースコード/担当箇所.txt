@@ -1,0 +1,6 @@
+担当箇所
+・ChaseOrderCamera
+・SoundManagerSubsystem
+・ItemSubsystem
+・ItemBase
+・その他バグ取り 仕様改善
